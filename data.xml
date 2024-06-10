@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <data>
+    <SAMPLE_CODE>AA00</SAMPLE_CODE>
+    <SAMPLE_TEXT>こんにちは。</SAMPLE_TEXT>
+  </data>
+  <data>
+    <SAMPLE_CODE>AA01</SAMPLE_CODE>
+    <SAMPLE_TEXT>やっほう。</SAMPLE_TEXT>
+  </data>
+  <data>
+    <SAMPLE_CODE>AA02</SAMPLE_CODE>
+    <SAMPLE_TEXT>やっぴ。</SAMPLE_TEXT>
+  </data>
+  <data>
+    <SAMPLE_CODE>AB01</SAMPLE_CODE>
+    <SAMPLE_TEXT>やるね！</SAMPLE_TEXT>
+  </data>
+  <data>
+    <SAMPLE_CODE>AB02</SAMPLE_CODE>
+    <SAMPLE_TEXT>ちょりす。</SAMPLE_TEXT>
+  </data>
+</root>
